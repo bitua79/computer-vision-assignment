@@ -1,7 +1,7 @@
 # Computer Vision Exercises in Google Colab
 
 ## Overview
-This project contains a series of image processing exercises implemented in Python using Google Colab. Each exercise explores different concepts in computer vision.
+This project contains a series of image processing exercises implemented in Python using Google Colab. Each exercise explores different concepts in computer vision. These exercises were developed as a part of the **Computer Vision** course.
 
 ## Table of Contents
 1. [Exercises](#exercises)
@@ -38,9 +38,6 @@ No installation is required if you're using Google Colab. However, if running lo
 
 ## Running the Exercises
 To run each exercise, navigate to the appropriate directory, open the corresponding Colab notebook, and simply click on the notebook link provided in the notebook file, and it will open in Colab.
-
-## Contributing
-Feel free to submit issues or pull requests. Contributions are welcome!
 
 ## Acknowledgments
 I would like to express my sincere gratitude to Ali Farokh ([Github](https://github.com/alifarrokh)) for their guidance, and valuable support.
