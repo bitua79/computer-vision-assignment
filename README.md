@@ -1,4 +1,4 @@
-# Computer Vision Exercises in Google Colab
+# Computer Vision Assignment in Google Colab
 
 ## Overview
 This project contains a series of image processing exercises implemented in Python using Google Colab. Each exercise explores different concepts in computer vision. These exercises were developed as a part of the **Computer Vision** course.
